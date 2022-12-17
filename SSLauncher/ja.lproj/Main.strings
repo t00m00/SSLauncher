@@ -1,0 +1,426 @@
+
+/* Class = "IBUINavigationItem"; title = "カラーモード"; ObjectID = "0iU-JB-ej1"; */
+"0iU-JB-ej1.title" = "カラーモード";
+
+/* Class = "IBUILabel"; text = "MM"; ObjectID = "1Al-LW-OjH"; */
+"1Al-LW-OjH.text" = "MM";
+
+/* Class = "IBUITableViewSection"; headerTitle = "ファイル"; ObjectID = "1Fc-Qe-Fsz"; */
+"1Fc-Qe-Fsz.headerTitle" = "ファイル";
+
+/* Class = "IBUITableViewSection"; headerTitle = "読み取り設定"; ObjectID = "1Td-MX-NXt"; */
+"1Td-MX-NXt.headerTitle" = "読み取り設定";
+
+/* Class = "IBUILabel"; text = "Not connected"; ObjectID = "1bj-QV-zXl"; */
+"1bj-QV-zXl.text" = "未接続";
+
+/* Class = "IBUILabel"; text = "yyyyMM"; ObjectID = "1Tq-uU-VFy"; */
+"1Tq-uU-VFy.text" = "yyyyMM";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "1ey-xJ-IfA"; */
+"1ey-xJ-IfA.text" = "Title";
+
+/* Class = "IBUILabel"; text = "SharableLink"; ObjectID = "22F-kX-JzD"; */
+"22F-kX-JzD.text" = "公開リンク";
+
+/* Class = "IBUILabel"; text = "A6"; ObjectID = "2dp-R1-upB"; */
+"2dp-R1-upB.text" = "A6";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Please enter the suffix"; ObjectID = "2zo-yh-XkZ"; */
+"2zo-yh-XkZ.headerTitle" = "接尾語を入力してください";
+
+/* Class = "IBUITextField"; text = "Prefix"; ObjectID = "4GE-Su-DGc"; */
+"4GE-Su-DGc.text" = "接頭語";
+
+/* Class = "IBUILabel"; text = "restore"; ObjectID = "4Lk-Oa-fgj"; */
+"4Lk-Oa-fgj.text" = "restore";
+
+/* Class = "IBUILabel"; text = "A5"; ObjectID = "4aK-P6-s2K"; */
+"4aK-P6-s2K.text" = "A5";
+
+/* Class = "IBUITableViewSection"; footerTitle = "クラウドへのサインインは[設定]から行ってください。"; ObjectID = "4oG-0h-chn"; */
+"4oG-0h-chn.footerTitle" = "保存先を\"/\"区切りで指定してください。\n例 : /フォルダA/フォルダB";
+
+/* Class = "IBUITableViewSection"; headerTitle = "クラウド"; ObjectID = "4oG-0h-chn"; */
+"4oG-0h-chn.headerTitle" = "クラウド";
+
+/* Class = "IBUILabel"; text = "yyyy"; ObjectID = "54A-e4-OWz"; */
+"54A-e4-OWz.text" = "yyyy";
+
+/* Class = "IBUILabel"; text = "圧縮率"; ObjectID = "54W-xK-nb8"; */
+"54W-xK-nb8.text" = "圧縮率";
+
+/* Class = "IBUILabel"; text = "継続読み取り"; ObjectID = "5MC-hX-fHg"; */
+"5MC-hX-fHg.text" = "継続読み取り";
+
+/* Class = "IBUINavigationItem"; title = "Cloud"; ObjectID = "66w-D1-wT4"; */
+"66w-D1-wT4.title" = "クラウド";
+
+/* Class = "IBUILabel"; text = "- (hyphen)"; ObjectID = "6im-Yn-Rk4"; */
+"6im-Yn-Rk4.text" = "- (ハイフン)";
+
+/* Class = "IBUILabel"; text = "やや強い"; ObjectID = "6v1-vs-rsp"; */
+"6v1-vs-rsp.text" = "やや強い";
+
+/* Class = "IBUILabel"; text = "強い (ファイルサイズ小さい)"; ObjectID = "7cO-VH-PWS"; */
+"7cO-VH-PWS.text" = "強い (ファイルサイズ小さい)";
+
+/* Class = "IBUILabel"; text = "ファイン"; ObjectID = "7lk-mC-qBx"; */
+"7lk-mC-qBx.text" = "ファイン";
+
+/* Class = "IBUILabel"; text = "   "; ObjectID = "8Nk-YQ-k2c"; */
+"8Nk-YQ-k2c.text" = "   ";
+
+/* Class = "IBUILabel"; text = "B5"; ObjectID = "8ed-f9-OgI"; */
+"8ed-f9-OgI.text" = "B5";
+
+/* Class = "IBUINavigationItem"; title = "画質"; ObjectID = "8mH-bv-9CD"; */
+"8mH-bv-9CD.title" = "画質";
+
+/* Class = "IBUILabel"; text = "yyyyMMdd"; ObjectID = "94D-ii-HR8"; */
+"94D-ii-HR8.text" = "yyyyMMdd";
+
+/* Class = "IBUILabel"; text = "Directly input"; ObjectID = "9C7-10-V3R"; */
+"9C7-10-V3R.text" = "直接入力";
+
+/* Class = "IBUITableViewSection"; headerTitle = "スキャナ"; ObjectID = "9iY-2t-IzV"; */
+"9iY-2t-IzV.headerTitle" = "スキャナ";
+
+/* Class = "IBUILabel"; text = "MMdd"; ObjectID = "9ud-wx-2b0"; */
+"9ud-wx-2b0.text" = "MMdd";
+
+/* Class = "IBUINavigationItem"; title = "読み取り面"; ObjectID = "A6B-qW-eaY"; */
+"A6B-qW-eaY.title" = "読み取り面";
+
+/* Class = "IBUILabel"; text = "自動的に削除する"; ObjectID = "AJk-ng-SU2"; */
+"AJk-ng-SU2.text" = "自動的に削除する";
+
+/* Class = "IBUILabel"; text = "カラー"; ObjectID = "ATp-F8-ef5"; */
+"ATp-F8-ef5.text" = "カラー";
+
+/* Class = "IBUILabel"; text = "Not connected"; ObjectID = "ALN-ld-dQJ"; */
+"ALN-ld-dQJ.text" = "未接続";
+
+/* Class = "IBUILabel"; text = "Prefix"; ObjectID = "Apf-oI-QEg"; */
+"Apf-oI-QEg.text" = "接頭語";
+
+/* Class = "IBUILabel"; text = "Directly input"; ObjectID = "BTQ-17-Xpo"; */
+"BTQ-17-Xpo.text" = "直接入力する";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Please enter the prefix"; ObjectID = "BdV-8P-rZX"; */
+"BdV-8P-rZX.headerTitle" = "接頭語を入力してください";
+
+/* Class = "IBUILabel"; text = "直接入力する"; ObjectID = "BiR-SS-xFT"; */
+"BiR-SS-xFT.text" = "スキャン実行時に入力する";
+
+/* Class = "IBUILabel"; text = "_ (underscore)"; ObjectID = "BmV-dR-e1v"; */
+"BmV-dR-e1v.text" = "_ (アンダーバー)";
+
+/* Class = "IBUILabel"; text = "未接続"; ObjectID = "CY2-dJ-gos"; */
+"CY2-dJ-gos.text" = "未接続";
+
+/* Class = "IBUINavigationItem"; title = "お知らせ"; ObjectID = "Ewh-k8-sSn"; */
+"Ewh-k8-sSn.title" = "お知らせ";
+
+/* Class = "IBUIBarButtonItem"; title = "キャンセル"; ObjectID = "FcC-GE-5ci"; */
+"FcC-GE-5ci.title" = "キャンセル";
+
+/* Class = "IBUILabel"; text = "yyyy"; ObjectID = "Fgf-A6-B1E"; */
+"Fgf-A6-B1E.text" = "yyyy";
+
+/* Class = "IBUILabel"; text = "標準"; ObjectID = "Fv0-pe-GxJ"; */
+"Fv0-pe-GxJ.text" = "標準";
+
+/* Class = "IBUITableViewSection"; headerTitle = " "; ObjectID = "GQc-3L-3AP"; */
+"GQc-3L-3AP.headerTitle" = " ";
+
+/* Class = "IBUILabel"; text = "裏写り軽減"; ObjectID = "GRi-aJ-E8B"; */
+"GRi-aJ-E8B.text" = "裏写り軽減";
+
+/* Class = "IBUILabel"; text = "名刺"; ObjectID = "GrA-8a-VxO"; */
+"GrA-8a-VxO.text" = "名刺";
+
+/* Class = "IBUITableViewSection"; footerTitle = "iX100では設定に関わらず片面となります"; ObjectID = "H2g-zr-cxT"; */
+"H2g-zr-cxT.footerTitle" = "iX100では設定に関わらず片面となります";
+
+/* Class = "IBUILabel"; text = "Not connected"; ObjectID = "HbT-JP-ZAS"; */
+"HbT-JP-ZAS.text" = "未接続";
+
+/* Class = "IBUILabel"; text = "PDF"; ObjectID = "Ia9-Og-4No"; */
+"Ia9-Og-4No.text" = "標準";
+
+/* Class = "IBUILabel"; text = "弱い (ファイルサイズ大きい)"; ObjectID = "Igl-gc-Npe"; */
+"Igl-gc-Npe.text" = "弱い (ファイルサイズ大きい)";
+
+/* Class = "IBUILabel"; text = "グレー"; ObjectID = "JVf-4p-Tba"; */
+"JVf-4p-Tba.text" = "グレー";
+
+/* Class = "IBUILabel"; text = "自動"; ObjectID = "JeS-5h-71r"; */
+"JeS-5h-71r.text" = "自動";
+
+/* Class = "IBUINavigationItem"; title = "原稿サイズ"; ObjectID = "K5E-Nh-kun"; */
+"K5E-Nh-kun.title" = "原稿サイズ";
+
+/* Class = "IBUILabel"; text = "Auto"; ObjectID = "Kmo-oE-V35"; */
+"Kmo-oE-V35.text" = "Auto";
+
+/* Class = "UILabel"; text = "PDF"; ObjectID = "L8I-EL-rPX"; */
+"L8I-EL-rPX.text" = "PDF";
+
+/* Class = "IBUITableViewSection"; footerTitle = " "; ObjectID = "LKn-QB-ktV"; */
+"LKn-QB-ktV.footerTitle" = "使い方の詳細などを確認することができます";
+
+/* Class = "IBUITableViewSection"; headerTitle = " "; ObjectID = "LKn-QB-ktV"; */
+"LKn-QB-ktV.headerTitle" = " ";
+
+/* Class = "IBUILabel"; text = "_ (underscore)"; ObjectID = "MQP-jL-Yod"; */
+"MQP-jL-Yod.text" = "_ (アンダーバー)";
+
+/* Class = "IBUILabel"; text = "Auto"; ObjectID = "MRE-Ss-qPN"; */
+"MRE-Ss-qPN.text" = "Auto";
+
+/* Class = "IBUILabel"; text = "- (hyphen)"; ObjectID = "Ne1-Jv-0GU"; */
+"Ne1-Jv-0GU.text" = "- (ハイフン)";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "Njo-U3-dfG"; */
+"Njo-U3-dfG.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Evernote"; ObjectID = "O0z-Ig-Hf1"; */
+"O0z-Ig-Hf1.text" = "Evernote";
+
+/* Class = "IBUILabel"; text = "自動"; ObjectID = "OKf-A4-aUa"; */
+"OKf-A4-aUa.text" = "自動";
+
+/* Class = "IBUILabel"; text = "Dropbox"; ObjectID = "OVi-hN-UZ4"; */
+"OVi-hN-UZ4.text" = "Dropbox";
+
+/* Class = "IBUILabel"; text = "カラーモード"; ObjectID = "PIv-Lm-Oms"; */
+"PIv-Lm-Oms.text" = "カラーモード";
+
+/* Class = "IBUILabel"; text = "スーパーファイン"; ObjectID = "PTF-4Z-hYd"; */
+"PTF-4Z-hYd.text" = "スーパーファイン";
+
+/* Class = "UINavigationItem"; title = "File Format"; ObjectID = "Q0c-Kg-1Km"; */
+"Q0c-Kg-1Km.title" = "ファイル形式";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Delimiter Type"; ObjectID = "Qgr-Ax-dho"; */
+"Qgr-Ax-dho.headerTitle" = "区切り文字";
+
+/* Class = "IBUILabel"; text = "None"; ObjectID = "RVW-iK-ax6"; */
+"RVW-iK-ax6.text" = "なし";
+
+/* Class = "IBUITableViewSection"; footerTitle = "You can add a suffix or prefix to the file name."; ObjectID = "Rjn-PT-Lt6"; */
+"Rjn-PT-Lt6.footerTitle" = "ファイル名に接頭語や接尾語を付けることができます";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Option"; ObjectID = "Rjn-PT-Lt6"; */
+"Rjn-PT-Lt6.headerTitle" = "オプション";
+
+/* Class = "IBUITextField"; text = "新しいLauncher"; ObjectID = "SRk-m7-vj6"; */
+"SRk-m7-vj6.text" = "新しいLauncher";
+
+/* Class = "IBUILabel"; text = "機能を購入する"; ObjectID = "Sk8-XW-aaM"; */
+"Sk8-XW-aaM.text" = "機能を購入する";
+
+/* Class = "IBUILabel"; text = "PDF"; ObjectID = "T9k-ca-Lgp"; */
+"T9k-ca-Lgp.text" = "PDF";
+
+/* Class = "IBUINavigationItem"; title = "圧縮率"; ObjectID = "TSS-AH-sh1"; */
+"TSS-AH-sh1.title" = "圧縮率";
+
+/* Class = "UILabel"; text = "JPEG"; ObjectID = "TVX-ff-ImB"; */
+"TVX-ff-ImB.text" = "JPEG";
+
+/* Class = "IBUILabel"; text = "両面"; ObjectID = "Tv3-VW-KGr"; */
+"Tv3-VW-KGr.text" = "両面";
+
+/* Class = "IBUILabel"; text = "PDF"; ObjectID = "UQi-2q-M7b"; */
+"UQi-2q-M7b.text" = "PDF";
+
+/* Class = "IBUINavigationItem"; title = "ファイル名"; ObjectID = "V3C-YF-lLk"; */
+"V3C-YF-lLk.title" = "ファイル名";
+
+/* Class = "IBUILabel"; text = "Directly input"; ObjectID = "VUL-LN-Ama"; */
+"VUL-LN-Ama.text" = "直接入力";
+
+/* Class = "IBUILabel"; text = "自動"; ObjectID = "VfR-bo-KrS"; */
+"VfR-bo-KrS.text" = "自動";
+
+/* Class = "IBUILabel"; text = "MM"; ObjectID = "Vng-Sc-ruJ"; */
+"Vng-Sc-ruJ.text" = "MM";
+
+/* Class = "IBUILabel"; text = "読み取り面"; ObjectID = "Vvj-Y2-2tg"; */
+"Vvj-Y2-2tg.text" = "読み取り面";
+
+/* Class = "IBUILabel"; text = "ファイル名"; ObjectID = "VyT-wb-sVf"; */
+"VyT-wb-sVf.text" = "ファイル名";
+
+/* Class = "IBUITableViewSection"; footerTitle = "ONにするとSSCAにファイルが残りません。"; ObjectID = "X00-gZ-CGx"; */
+"X00-gZ-CGx.footerTitle" = "ONにするとSSCAにファイルが残りません。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "読み取り後ファイル"; ObjectID = "X00-gZ-CGx"; */
+"X00-gZ-CGx.headerTitle" = "読み取り後ファイル";
+
+/* Class = "IBUILabel"; text = "A4"; ObjectID = "Xk9-Yp-XWn"; */
+"Xk9-Yp-XWn.text" = "A4";
+
+/* Class = "IBUILabel"; text = "yyyyMMddHHmmss"; ObjectID = "Xuj-bq-b86"; */
+"Xuj-bq-b86.text" = "yyyyMMddHHmmss";
+
+/* Class = "IBUILabel"; text = "やや弱い"; ObjectID = "Y6r-52-o3a"; */
+"Y6r-52-o3a.text" = "やや弱い";
+
+/* Class = "IBUITabBarItem"; title = "設定"; ObjectID = "Z56-nb-Ve1"; */
+"Z56-nb-Ve1.title" = "設定";
+
+/* Class = "IBUITableViewSection"; headerTitle = "タイトル"; ObjectID = "aA4-ff-62a"; */
+"aA4-ff-62a.headerTitle" = "タイトル";
+
+/* Class = "IBUILabel"; text = "画質"; ObjectID = "azm-FF-rFJ"; */
+"azm-FF-rFJ.text" = "画質";
+
+/* Class = "IBUILabel"; text = "Evernote"; ObjectID = "bCa-Sz-9ft"; */
+"bCa-Sz-9ft.text" = "Evernote";
+
+/* Class = "IBUILabel"; text = "User Name"; ObjectID = "cH6-K7-rj8"; */
+"cH6-K7-rj8.text" = "ユーザー名";
+
+/* Class = "IBUILabel"; text = "None"; ObjectID = "cHI-re-li0"; */
+"cHI-re-li0.text" = "なし";
+
+/* Class = "IBUILabel"; text = "レター"; ObjectID = "cQY-5L-odx"; */
+"cQY-5L-odx.text" = "レター";
+
+/* Class = "IBUILabel"; text = "ファイル形式"; ObjectID = "cdU-jq-imp"; */
+"cdU-jq-imp.text" = "ファイル形式";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "cpw-Am-12M"; */
+"cpw-Am-12M.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "[設定] → [アプリ内課金] から\n機能を購入してください。"; ObjectID = "d1M-t0-SVT"; */
+"d1M-t0-SVT.text" = "[設定] → [アプリ内課金] から\n機能を購入してください。";
+
+/* Class = "IBUITextField"; text = "Suffix"; ObjectID = "e49-xx-hYk"; */
+"e49-xx-hYk.text" = "接尾語";
+
+/* Class = "IBUITextField"; text = "新しいファイル"; ObjectID = "eLZ-QW-cZb"; */
+"eLZ-QW-cZb.text" = "新しいファイル";
+
+/* Class = "IBUINavigationItem"; title = "SSLauncher"; ObjectID = "ehw-S6-DNG"; */
+"ehw-S6-DNG.title" = "リスト";
+
+/* Class = "IBUITableViewSection"; headerTitle = "クラウド"; ObjectID = "fRc-0E-CTd"; */
+"fRc-0E-CTd.headerTitle" = "クラウド";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Delimiter Type"; ObjectID = "fgp-jA-M0x"; */
+"fgp-jA-M0x.headerTitle" = "区切り文字";
+
+/* Class = "IBUINavigationItem"; title = "Launcherの作成"; ObjectID = "fuc-8b-nGg"; */
+"fuc-8b-nGg.title" = "リストの作成";
+
+/* Class = "IBUITabBarItem"; title = "Favorite"; ObjectID = "gBo-vy-qHG"; */
+"gBo-vy-qHG.title" = "お気に入り";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "gQh-bD-kPL"; */
+"gQh-bD-kPL.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "PDF"; ObjectID = "gVG-0w-LM7"; */
+"gVG-0w-LM7.text" = "Auto";
+
+/* Class = "IBUINavigationItem"; title = "Favorite"; ObjectID = "gg9-kG-nSs"; */
+"gg9-kG-nSs.title" = "お気に入り";
+
+/* Class = "IBUINavigationItem"; title = "Prefix"; ObjectID = "h61-1K-HRA"; */
+"h61-1K-HRA.title" = "接頭語";
+
+/* Class = "IBUILabel"; text = "yyyy年MM月dd日HH時mm分ss秒"; ObjectID = "h8P-nE-Z41"; */
+"h8P-nE-Z41.text" = "yyyy年MM月dd日HH時mm分ss秒";
+
+/* Class = "IBUILabel"; text = "片面"; ObjectID = "hkA-An-ORU"; */
+"hkA-An-ORU.text" = "片面";
+
+/* Class = "IBUILabel"; text = "yyyyMM"; ObjectID = "hnP-R9-BFw"; */
+"hnP-R9-BFw.text" = "yyyyMM";
+
+/* Class = "IBUITableViewSection"; footerTitle = " "; ObjectID = "iRh-Ag-k8W"; */
+"iRh-Ag-k8W.footerTitle" = "アップロードしたファイルへのリンクが\nクリップボードにコピーされます";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Cloud Option"; ObjectID = "iRh-Ag-k8W"; */
+"iRh-Ag-k8W.headerTitle" = "クラウドオプション";
+
+/* Class = "IBUILabel"; text = "原稿サイズ"; ObjectID = "icG-yx-DI8"; */
+"icG-yx-DI8.text" = "原稿サイズ";
+
+/* Class = "IBUINavigationItem"; title = "アプリ内購入"; ObjectID = "ihX-8p-PAL"; */
+"ihX-8p-PAL.title" = "アプリ内購入";
+
+/* Class = "IBUITableViewSection"; headerTitle = "ファイル名を入力してください"; ObjectID = "ir2-lk-sRL"; */
+"ir2-lk-sRL.headerTitle" = "ファイル名を入力してください";
+
+/* Class = "IBUILabel"; text = "loading..."; ObjectID = "jOs-RL-yJ6"; */
+"jOs-RL-yJ6.text" = "loading...";
+
+/* Class = "IBUINavigationItem"; title = "Suffix"; ObjectID = "lAs-oB-1jR"; */
+"lAs-oB-1jR.title" = "接尾語";
+
+/* Class = "IBUILabel"; text = "yyyyMMdd"; ObjectID = "lGs-K3-5cs"; */
+"lGs-K3-5cs.text" = "yyyyMMdd";
+
+/* Class = "IBUILabel"; text = "Suffix"; ObjectID = "lU3-GA-1eq"; */
+"lU3-GA-1eq.text" = "接尾語";
+
+/* Class = "IBUILabel"; text = "はがき"; ObjectID = "lbG-jK-TjY"; */
+"lbG-jK-TjY.text" = "はがき";
+
+/* Class = "IBUILabel"; text = "リーガル"; ObjectID = "lcs-iF-Cb0"; */
+"lcs-iF-Cb0.text" = "リーガル";
+
+/* Class = "IBUILabel"; text = "白紙削除"; ObjectID = "mAC-Sz-XrY"; */
+"mAC-Sz-XrY.text" = "白紙削除";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "n8r-hL-z99"; */
+"n8r-hL-z99.title" = "戻る";
+
+/* Class = "IBUITabBarItem"; title = "リスト"; ObjectID = "nWt-G8-xRa"; */
+"nWt-G8-xRa.title" = "リスト";
+
+/* Class = "IBUILabel"; text = "Developer Web Site"; ObjectID = "qxW-BJ-x4v"; */
+"qxW-BJ-x4v.text" = "デベロッパ Webサイト";
+
+/* Class = "IBUILabel"; text = "B6"; ObjectID = "r3f-dP-DLa"; */
+"r3f-dP-DLa.text" = "B6";
+
+/* Class = "IBUILabel"; text = "Dropbox"; ObjectID = "rJM-aI-gpM"; */
+"rJM-aI-gpM.text" = "Dropbox";
+
+/* Class = "IBUILabel"; text = "None"; ObjectID = "rch-0p-UMZ"; */
+"rch-0p-UMZ.text" = "なし";
+
+/* Class = "IBUILabel"; text = "ノーマル"; ObjectID = "rsH-51-Ni3"; */
+"rsH-51-Ni3.text" = "ノーマル";
+
+/* Class = "IBUILabel"; text = "MMdd"; ObjectID = "s2J-w1-Md2"; */
+"s2J-w1-Md2.text" = "MMdd";
+
+/* Class = "IBUINavigationItem"; title = "設定"; ObjectID = "sQ6-bv-a0D"; */
+"sQ6-bv-a0D.title" = "設定";
+
+/* Class = "IBUITableViewSection"; headerTitle = "アプリ内課金"; ObjectID = "uTA-R8-L0b"; */
+"uTA-R8-L0b.headerTitle" = "アプリ内課金";
+
+/* Class = "IBUILabel"; text = "yyyy-MM-dd-HH-mm-ss"; ObjectID = "wz1-YZ-lsA"; */
+"wz1-YZ-lsA.text" = "yyyy-MM-dd-HH-mm-ss";
+
+/* Class = "IBUILabel"; text = "None"; ObjectID = "xLh-oI-IUj"; */
+"xLh-oI-IUj.text" = "なし";
+
+/* Class = "IBUILabel"; text = "Preview"; ObjectID = "xV3-xA-yIT"; */
+"xV3-xA-yIT.text" = "プレビュー";
+
+/* Class = "IBUILabel"; text = "fName"; ObjectID = "xfV-Ko-hSC"; */
+"xfV-Ko-hSC.text" = "fName";
+
+/* Class = "IBUIBarButtonItem"; title = "作成"; ObjectID = "y5h-WW-LDW"; */
+"y5h-WW-LDW.title" = "作成";
+
+/* Class = "IBUILabel"; text = "自動"; ObjectID = "yTS-gS-8ZG"; */
+"yTS-gS-8ZG.text" = "自動";

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="fD7-Ef-5kw">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <scenes>
+        <!--Input Alert View Controller-->
+        <scene sceneID="oem-Ck-bzJ">
+            <objects>
+                <viewController id="fD7-Ef-5kw" customClass="InputAlertViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="dna-Ec-eof"/>
+                        <viewControllerLayoutGuide type="bottom" id="e6h-e2-z3x"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8mo-pJ-uhz">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lJs-2h-yIH" userLabel="BaseView">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <subviews>
+                                    <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="USm-EJ-3Sa" userLabel="AlertView">
+                                        <rect key="frame" x="25" y="209" width="270" height="150"/>
+                                        <subviews>
+                                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please input file name." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.70000000000000018" translatesAutoresizingMaskIntoConstraints="NO" id="eUK-ph-JFO">
+                                                <rect key="frame" x="8" y="8" width="254" height="40"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="40" id="O0S-LO-cpi"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="aHd-mA-n69">
+                                                <rect key="frame" x="18" y="56" width="234" height="30"/>
+                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="30" id="WrD-SM-y12"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                <textInputTraits key="textInputTraits"/>
+                                            </textField>
+                                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="94w-zx-ob6" customClass="AlertLabelButton">
+                                                <rect key="frame" x="0.0" y="98" width="270" height="52"/>
+                                                <gestureRecognizers/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="52" id="jT2-Lo-k82"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                                <color key="textColor" red="0.1333333333" green="0.50980392159999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <connections>
+                                                    <outletCollection property="gestureRecognizers" destination="NF9-mM-kpW" appends="YES" id="1Bc-nv-imQ"/>
+                                                </connections>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstItem="aHd-mA-n69" firstAttribute="top" secondItem="eUK-ph-JFO" secondAttribute="bottom" constant="8" id="05H-gu-PfQ"/>
+                                            <constraint firstAttribute="trailing" secondItem="94w-zx-ob6" secondAttribute="trailing" id="GDR-UA-6Yc"/>
+                                            <constraint firstItem="94w-zx-ob6" firstAttribute="leading" secondItem="USm-EJ-3Sa" secondAttribute="leading" id="Gmp-rV-0xY"/>
+                                            <constraint firstAttribute="trailing" secondItem="eUK-ph-JFO" secondAttribute="trailing" constant="8" id="MhO-ZU-Mx1"/>
+                                            <constraint firstAttribute="trailing" secondItem="aHd-mA-n69" secondAttribute="trailing" constant="18" id="Vop-tq-6qX"/>
+                                            <constraint firstItem="aHd-mA-n69" firstAttribute="leading" secondItem="USm-EJ-3Sa" secondAttribute="leading" constant="18" id="ZGH-fN-YwX"/>
+                                            <constraint firstItem="eUK-ph-JFO" firstAttribute="top" secondItem="USm-EJ-3Sa" secondAttribute="top" constant="8" id="anF-Nu-2C0"/>
+                                            <constraint firstItem="eUK-ph-JFO" firstAttribute="leading" secondItem="USm-EJ-3Sa" secondAttribute="leading" constant="8" id="dBc-g2-tBs"/>
+                                            <constraint firstAttribute="height" constant="150" id="iNP-Ca-3G9"/>
+                                            <constraint firstAttribute="width" constant="270" id="k1h-kg-1Jd"/>
+                                            <constraint firstItem="94w-zx-ob6" firstAttribute="top" secondItem="aHd-mA-n69" secondAttribute="bottom" constant="12" id="oVI-wY-Qa9"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.40000000000000002" colorSpace="custom" customColorSpace="sRGB"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="centerY" secondItem="USm-EJ-3Sa" secondAttribute="centerY" id="lzq-Rf-wbP"/>
+                                    <constraint firstAttribute="centerX" secondItem="USm-EJ-3Sa" secondAttribute="centerX" id="s7y-U5-c7Q"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="pYG-4T-ihb" appends="YES" id="rhL-Un-jQM"/>
+                                </connections>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="e6h-e2-z3x" firstAttribute="top" secondItem="lJs-2h-yIH" secondAttribute="bottom" id="1n8-TI-zfL"/>
+                            <constraint firstItem="lJs-2h-yIH" firstAttribute="leading" secondItem="8mo-pJ-uhz" secondAttribute="leading" id="89W-vD-CTC"/>
+                            <constraint firstItem="lJs-2h-yIH" firstAttribute="top" secondItem="8mo-pJ-uhz" secondAttribute="top" id="lX6-S3-Iwd"/>
+                            <constraint firstAttribute="trailing" secondItem="lJs-2h-yIH" secondAttribute="trailing" id="opN-sq-rr2"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="alertView" destination="USm-EJ-3Sa" id="SOv-Ua-EuF"/>
+                        <outlet property="baseView" destination="lJs-2h-yIH" id="u1H-J2-ciA"/>
+                        <outlet property="bottomLayoutConstraint" destination="1n8-TI-zfL" id="rhK-At-HWL"/>
+                        <outlet property="fileNameTextField" destination="aHd-mA-n69" id="OBw-KQ-aS8"/>
+                        <outlet property="msgLabel" destination="eUK-ph-JFO" id="Rdd-ob-xJw"/>
+                        <outlet property="scanButton" destination="94w-zx-ob6" id="Q2r-fu-xJc"/>
+                        <outlet property="scanTapGesture" destination="NF9-mM-kpW" id="49w-T0-Gag"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WFV-Bs-DeM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="NF9-mM-kpW" customClass="TapUpDownGestureRecognizer"/>
+                <tapGestureRecognizer id="pYG-4T-ihb" userLabel="Cancel Tap Gesture Recognizer">
+                    <connections>
+                        <action selector="cancelTapped:" destination="fD7-Ef-5kw" id="3Vt-iP-Lsf"/>
+                        <outlet property="delegate" destination="fD7-Ef-5kw" id="W9E-68-W4N"/>
+                    </connections>
+                </tapGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="341" y="42"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

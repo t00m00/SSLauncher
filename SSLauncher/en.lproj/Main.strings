@@ -1,0 +1,426 @@
+
+/* Class = "UINavigationItem"; title = "Color mode"; ObjectID = "0iU-JB-ej1"; */
+"0iU-JB-ej1.title" = "Color mode";
+
+/* Class = "UILabel"; text = "MM"; ObjectID = "1Al-LW-OjH"; */
+"1Al-LW-OjH.text" = "MM";
+
+/* Class = "UITableViewSection"; headerTitle = "File"; ObjectID = "1Fc-Qe-Fsz"; */
+"1Fc-Qe-Fsz.headerTitle" = "File";
+
+/* Class = "UITableViewSection"; headerTitle = "Scan Settings"; ObjectID = "1Td-MX-NXt"; */
+"1Td-MX-NXt.headerTitle" = "Scan Settings";
+
+/* Class = "UILabel"; text = "yyyyMM"; ObjectID = "1Tq-uU-VFy"; */
+"1Tq-uU-VFy.text" = "yyyyMM";
+
+/* Class = "UILabel"; text = "Not connected"; ObjectID = "1bj-QV-zXl"; */
+"1bj-QV-zXl.text" = "Not connected";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1ey-xJ-IfA"; */
+"1ey-xJ-IfA.text" = "Title";
+
+/* Class = "UILabel"; text = "SharableLink"; ObjectID = "22F-kX-JzD"; */
+"22F-kX-JzD.text" = "SharableLink";
+
+/* Class = "UILabel"; text = "A6"; ObjectID = "2dp-R1-upB"; */
+"2dp-R1-upB.text" = "A6";
+
+/* Class = "UITableViewSection"; headerTitle = "Please enter the suffix"; ObjectID = "2zo-yh-XkZ"; */
+"2zo-yh-XkZ.headerTitle" = "Please enter the suffix";
+
+/* Class = "UITextField"; text = "Prefix"; ObjectID = "4GE-Su-DGc"; */
+"4GE-Su-DGc.text" = "Prefix";
+
+/* Class = "UILabel"; text = "restore"; ObjectID = "4Lk-Oa-fgj"; */
+"4Lk-Oa-fgj.text" = "restore";
+
+/* Class = "UILabel"; text = "A5"; ObjectID = "4aK-P6-s2K"; */
+"4aK-P6-s2K.text" = "A5";
+
+/* Class = "UITableViewSection"; footerTitle = "Please specify by the delimiter \"/\" the destination.\nEx : /FolderA/FolderB"; ObjectID = "4oG-0h-chn"; */
+"4oG-0h-chn.footerTitle" = "Please specify by the delimiter \"/\" the destination.\nEx : /FolderA/FolderB";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud"; ObjectID = "4oG-0h-chn"; */
+"4oG-0h-chn.headerTitle" = "Cloud";
+
+/* Class = "UILabel"; text = "yyyy"; ObjectID = "54A-e4-OWz"; */
+"54A-e4-OWz.text" = "yyyy";
+
+/* Class = "UILabel"; text = "Compression rate"; ObjectID = "54W-xK-nb8"; */
+"54W-xK-nb8.text" = "Compression rate";
+
+/* Class = "UILabel"; text = "Continue reading"; ObjectID = "5MC-hX-fHg"; */
+"5MC-hX-fHg.text" = "Continue reading";
+
+/* Class = "UINavigationItem"; title = "Cloud"; ObjectID = "66w-D1-wT4"; */
+"66w-D1-wT4.title" = "Cloud";
+
+/* Class = "UILabel"; text = "- (hyphen)"; ObjectID = "6im-Yn-Rk4"; */
+"6im-Yn-Rk4.text" = "- (hyphen)";
+
+/* Class = "UILabel"; text = "Somewhat strong"; ObjectID = "6v1-vs-rsp"; */
+"6v1-vs-rsp.text" = "Somewhat strong";
+
+/* Class = "UILabel"; text = "Strong (Small file size)"; ObjectID = "7cO-VH-PWS"; */
+"7cO-VH-PWS.text" = "Strong (Small file size)";
+
+/* Class = "UILabel"; text = "Fine"; ObjectID = "7lk-mC-qBx"; */
+"7lk-mC-qBx.text" = "Fine";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "8Nk-YQ-k2c"; */
+"8Nk-YQ-k2c.text" = "   ";
+
+/* Class = "UILabel"; text = "B5"; ObjectID = "8ed-f9-OgI"; */
+"8ed-f9-OgI.text" = "B5";
+
+/* Class = "UINavigationItem"; title = "Image quality"; ObjectID = "8mH-bv-9CD"; */
+"8mH-bv-9CD.title" = "Image quality";
+
+/* Class = "UILabel"; text = "yyyyMMdd"; ObjectID = "94D-ii-HR8"; */
+"94D-ii-HR8.text" = "yyyyMMdd";
+
+/* Class = "UILabel"; text = "Directly input"; ObjectID = "9C7-10-V3R"; */
+"9C7-10-V3R.text" = "Directly input";
+
+/* Class = "UITableViewSection"; headerTitle = "Scanner"; ObjectID = "9iY-2t-IzV"; */
+"9iY-2t-IzV.headerTitle" = "Scanner";
+
+/* Class = "UILabel"; text = "MMdd"; ObjectID = "9ud-wx-2b0"; */
+"9ud-wx-2b0.text" = "MMdd";
+
+/* Class = "UINavigationItem"; title = "Reading surface"; ObjectID = "A6B-qW-eaY"; */
+"A6B-qW-eaY.title" = "Reading surface";
+
+/* Class = "UILabel"; text = "Automatically delete"; ObjectID = "AJk-ng-SU2"; */
+"AJk-ng-SU2.text" = "Automatically delete";
+
+/* Class = "UILabel"; text = "Not connected"; ObjectID = "ALN-ld-dQJ"; */
+"ALN-ld-dQJ.text" = "Not connected";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "ATp-F8-ef5"; */
+"ATp-F8-ef5.text" = "Color";
+
+/* Class = "UILabel"; text = "Prefix"; ObjectID = "Apf-oI-QEg"; */
+"Apf-oI-QEg.text" = "Prefix";
+
+/* Class = "UILabel"; text = "Directly input"; ObjectID = "BTQ-17-Xpo"; */
+"BTQ-17-Xpo.text" = "Directly input";
+
+/* Class = "UITableViewSection"; headerTitle = "Please enter the prefix"; ObjectID = "BdV-8P-rZX"; */
+"BdV-8P-rZX.headerTitle" = "Please enter the prefix";
+
+/* Class = "UILabel"; text = "Enter When you perform a scan"; ObjectID = "BiR-SS-xFT"; */
+"BiR-SS-xFT.text" = "Enter When you perform a scan";
+
+/* Class = "UILabel"; text = "_ (underscore)"; ObjectID = "BmV-dR-e1v"; */
+"BmV-dR-e1v.text" = "_ (underscore)";
+
+/* Class = "UILabel"; text = "Not connected"; ObjectID = "CY2-dJ-gos"; */
+"CY2-dJ-gos.text" = "Not connected";
+
+/* Class = "UINavigationItem"; title = "Announcement"; ObjectID = "Ewh-k8-sSn"; */
+"Ewh-k8-sSn.title" = "Announcement";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "FcC-GE-5ci"; */
+"FcC-GE-5ci.title" = "Cancel";
+
+/* Class = "UILabel"; text = "yyyy"; ObjectID = "Fgf-A6-B1E"; */
+"Fgf-A6-B1E.text" = "yyyy";
+
+/* Class = "UILabel"; text = "Standard"; ObjectID = "Fv0-pe-GxJ"; */
+"Fv0-pe-GxJ.text" = "Standard";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "GQc-3L-3AP"; */
+"GQc-3L-3AP.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "Bleed reduce"; ObjectID = "GRi-aJ-E8B"; */
+"GRi-aJ-E8B.text" = "Bleed reduce";
+
+/* Class = "UILabel"; text = "Business card"; ObjectID = "GrA-8a-VxO"; */
+"GrA-8a-VxO.text" = "Business card";
+
+/* Class = "UITableViewSection"; footerTitle = "Single side regardless of the setting in iX100"; ObjectID = "H2g-zr-cxT"; */
+"H2g-zr-cxT.footerTitle" = "Single side regardless of the setting in iX100";
+
+/* Class = "UILabel"; text = "Not connected"; ObjectID = "HbT-JP-ZAS"; */
+"HbT-JP-ZAS.text" = "Not connected";
+
+/* Class = "UILabel"; text = "Standard"; ObjectID = "Ia9-Og-4No"; */
+"Ia9-Og-4No.text" = "Standard";
+
+/* Class = "UILabel"; text = "Weak (Large file size)"; ObjectID = "Igl-gc-Npe"; */
+"Igl-gc-Npe.text" = "Weak (Large file size)";
+
+/* Class = "UILabel"; text = "Gray"; ObjectID = "JVf-4p-Tba"; */
+"JVf-4p-Tba.text" = "Gray";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "JeS-5h-71r"; */
+"JeS-5h-71r.text" = "Auto";
+
+/* Class = "UINavigationItem"; title = "Paper size"; ObjectID = "K5E-Nh-kun"; */
+"K5E-Nh-kun.title" = "Paper size";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "Kmo-oE-V35"; */
+"Kmo-oE-V35.text" = "Auto";
+
+/* Class = "UILabel"; text = "PDF"; ObjectID = "L8I-EL-rPX"; */
+"L8I-EL-rPX.text" = "PDF";
+
+/* Class = "UITableViewSection"; footerTitle = "You can check the details of how to use such"; ObjectID = "LKn-QB-ktV"; */
+"LKn-QB-ktV.footerTitle" = "You can check the details of how to use such";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "LKn-QB-ktV"; */
+"LKn-QB-ktV.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "_ (underscore)"; ObjectID = "MQP-jL-Yod"; */
+"MQP-jL-Yod.text" = "_ (underscore)";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "MRE-Ss-qPN"; */
+"MRE-Ss-qPN.text" = "Auto";
+
+/* Class = "UILabel"; text = "- (hyphen)"; ObjectID = "Ne1-Jv-0GU"; */
+"Ne1-Jv-0GU.text" = "- (hyphen)";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Njo-U3-dfG"; */
+"Njo-U3-dfG.text" = "Detail";
+
+/* Class = "UILabel"; text = "Evernote"; ObjectID = "O0z-Ig-Hf1"; */
+"O0z-Ig-Hf1.text" = "Evernote";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "OKf-A4-aUa"; */
+"OKf-A4-aUa.text" = "Auto";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "OVi-hN-UZ4"; */
+"OVi-hN-UZ4.text" = "Dropbox";
+
+/* Class = "UILabel"; text = "Color mode"; ObjectID = "PIv-Lm-Oms"; */
+"PIv-Lm-Oms.text" = "Color mode";
+
+/* Class = "UILabel"; text = "Superfine"; ObjectID = "PTF-4Z-hYd"; */
+"PTF-4Z-hYd.text" = "Superfine";
+
+/* Class = "UINavigationItem"; title = "File Format"; ObjectID = "Q0c-Kg-1Km"; */
+"Q0c-Kg-1Km.title" = "File Format";
+
+/* Class = "UITableViewSection"; headerTitle = "Delimiter Type"; ObjectID = "Qgr-Ax-dho"; */
+"Qgr-Ax-dho.headerTitle" = "Delimiter Type";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "RVW-iK-ax6"; */
+"RVW-iK-ax6.text" = "None";
+
+/* Class = "UITableViewSection"; footerTitle = "You can add a suffix or prefix to the file name"; ObjectID = "Rjn-PT-Lt6"; */
+"Rjn-PT-Lt6.footerTitle" = "You can add a suffix or prefix to the file name";
+
+/* Class = "UITableViewSection"; headerTitle = "Option"; ObjectID = "Rjn-PT-Lt6"; */
+"Rjn-PT-Lt6.headerTitle" = "Option";
+
+/* Class = "UITextField"; text = "New Launcher"; ObjectID = "SRk-m7-vj6"; */
+"SRk-m7-vj6.text" = "New Launcher";
+
+/* Class = "UILabel"; text = "Purchased a feature"; ObjectID = "Sk8-XW-aaM"; */
+"Sk8-XW-aaM.text" = "Purchased a feature";
+
+/* Class = "UILabel"; text = "Both sides"; ObjectID = "T9k-ca-Lgp"; */
+"T9k-ca-Lgp.text" = "Both sides";
+
+/* Class = "UINavigationItem"; title = "Compression rate"; ObjectID = "TSS-AH-sh1"; */
+"TSS-AH-sh1.title" = "Compression rate";
+
+/* Class = "UILabel"; text = "JPEG"; ObjectID = "TVX-ff-ImB"; */
+"TVX-ff-ImB.text" = "JPEG";
+
+/* Class = "UILabel"; text = "Both sides"; ObjectID = "Tv3-VW-KGr"; */
+"Tv3-VW-KGr.text" = "Both sides";
+
+/* Class = "UILabel"; text = "PDF"; ObjectID = "UQi-2q-M7b"; */
+"UQi-2q-M7b.text" = "PDF";
+
+/* Class = "UINavigationItem"; title = "File Name"; ObjectID = "V3C-YF-lLk"; */
+"V3C-YF-lLk.title" = "File Name";
+
+/* Class = "UILabel"; text = "Directly input"; ObjectID = "VUL-LN-Ama"; */
+"VUL-LN-Ama.text" = "Directly input";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "VfR-bo-KrS"; */
+"VfR-bo-KrS.text" = "Auto";
+
+/* Class = "UILabel"; text = "MM"; ObjectID = "Vng-Sc-ruJ"; */
+"Vng-Sc-ruJ.text" = "MM";
+
+/* Class = "UILabel"; text = "Reading surface"; ObjectID = "Vvj-Y2-2tg"; */
+"Vvj-Y2-2tg.text" = "Reading surface";
+
+/* Class = "UILabel"; text = "File name"; ObjectID = "VyT-wb-sVf"; */
+"VyT-wb-sVf.text" = "File name";
+
+/* Class = "UITableViewSection"; footerTitle = "File does not remain in SSCA when set to ON."; ObjectID = "X00-gZ-CGx"; */
+"X00-gZ-CGx.footerTitle" = "File does not remain in SSCA when set to ON.";
+
+/* Class = "UITableViewSection"; headerTitle = "After reading the file"; ObjectID = "X00-gZ-CGx"; */
+"X00-gZ-CGx.headerTitle" = "After reading the file";
+
+/* Class = "UILabel"; text = "A4"; ObjectID = "Xk9-Yp-XWn"; */
+"Xk9-Yp-XWn.text" = "A4";
+
+/* Class = "UILabel"; text = "yyyyMMddHHmmss"; ObjectID = "Xuj-bq-b86"; */
+"Xuj-bq-b86.text" = "yyyyMMddHHmmss";
+
+/* Class = "UILabel"; text = "Slightly weaker"; ObjectID = "Y6r-52-o3a"; */
+"Y6r-52-o3a.text" = "Slightly weaker";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "Z56-nb-Ve1"; */
+"Z56-nb-Ve1.title" = "Setting";
+
+/* Class = "UITableViewSection"; headerTitle = "Title"; ObjectID = "aA4-ff-62a"; */
+"aA4-ff-62a.headerTitle" = "Title";
+
+/* Class = "UILabel"; text = "Image quality"; ObjectID = "azm-FF-rFJ"; */
+"azm-FF-rFJ.text" = "Image quality";
+
+/* Class = "UILabel"; text = "Evernote"; ObjectID = "bCa-Sz-9ft"; */
+"bCa-Sz-9ft.text" = "Evernote";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "cH6-K7-rj8"; */
+"cH6-K7-rj8.text" = "User Name";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "cHI-re-li0"; */
+"cHI-re-li0.text" = "None";
+
+/* Class = "UILabel"; text = "Letter"; ObjectID = "cQY-5L-odx"; */
+"cQY-5L-odx.text" = "Letter";
+
+/* Class = "UILabel"; text = "File format"; ObjectID = "cdU-jq-imp"; */
+"cdU-jq-imp.text" = "File format";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "cpw-Am-12M"; */
+"cpw-Am-12M.text" = "Detail";
+
+/* Class = "UILabel"; text = "Thank you for your purchase of the feature to continue to use.\n[Settings] → [In-App Purchase]."; ObjectID = "d1M-t0-SVT"; */
+"d1M-t0-SVT.text" = "Thank you for your purchase of the feature to continue to use.\n[Settings] → [In-App Purchase].";
+
+/* Class = "UITextField"; text = "Suffix"; ObjectID = "e49-xx-hYk"; */
+"e49-xx-hYk.text" = "Suffix";
+
+/* Class = "UITextField"; text = "New File"; ObjectID = "eLZ-QW-cZb"; */
+"eLZ-QW-cZb.text" = "New File";
+
+/* Class = "UINavigationItem"; title = "SSLauncher"; ObjectID = "ehw-S6-DNG"; */
+"ehw-S6-DNG.title" = "SSLauncher";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud"; ObjectID = "fRc-0E-CTd"; */
+"fRc-0E-CTd.headerTitle" = "Cloud";
+
+/* Class = "UITableViewSection"; headerTitle = "Delimiter Type"; ObjectID = "fgp-jA-M0x"; */
+"fgp-jA-M0x.headerTitle" = "Delimiter Type";
+
+/* Class = "UINavigationItem"; title = "Create list"; ObjectID = "fuc-8b-nGg"; */
+"fuc-8b-nGg.title" = "Create list";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "gBo-vy-qHG"; */
+"gBo-vy-qHG.title" = "Favorite";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "gQh-bD-kPL"; */
+"gQh-bD-kPL.text" = "Detail";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "gVG-0w-LM7"; */
+"gVG-0w-LM7.text" = "Auto";
+
+/* Class = "UINavigationItem"; title = "Favorite"; ObjectID = "gg9-kG-nSs"; */
+"gg9-kG-nSs.title" = "Favorite";
+
+/* Class = "UINavigationItem"; title = "Prefix"; ObjectID = "h61-1K-HRA"; */
+"h61-1K-HRA.title" = "Prefix";
+
+/* Class = "UILabel"; text = "yyyy_MM_dd_HH_mm_ss"; ObjectID = "h8P-nE-Z41"; */
+"h8P-nE-Z41.text" = "yyyy_MM_dd_HH_mm_ss";
+
+/* Class = "UILabel"; text = "Single side"; ObjectID = "hkA-An-ORU"; */
+"hkA-An-ORU.text" = "Single side";
+
+/* Class = "UILabel"; text = "yyyyMM"; ObjectID = "hnP-R9-BFw"; */
+"hnP-R9-BFw.text" = "yyyyMM";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "iRh-Ag-k8W"; */
+"iRh-Ag-k8W.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud Option"; ObjectID = "iRh-Ag-k8W"; */
+"iRh-Ag-k8W.headerTitle" = "Cloud Option";
+
+/* Class = "UILabel"; text = "Paper size"; ObjectID = "icG-yx-DI8"; */
+"icG-yx-DI8.text" = "Paper size";
+
+/* Class = "UINavigationItem"; title = "In-App Purchase"; ObjectID = "ihX-8p-PAL"; */
+"ihX-8p-PAL.title" = "In-App Purchase";
+
+/* Class = "UITableViewSection"; headerTitle = "Please input file name"; ObjectID = "ir2-lk-sRL"; */
+"ir2-lk-sRL.headerTitle" = "Please input file name";
+
+/* Class = "UILabel"; text = "loading..."; ObjectID = "jOs-RL-yJ6"; */
+"jOs-RL-yJ6.text" = "loading...";
+
+/* Class = "UINavigationItem"; title = "Suffix"; ObjectID = "lAs-oB-1jR"; */
+"lAs-oB-1jR.title" = "Suffix";
+
+/* Class = "UILabel"; text = "yyyyMMdd"; ObjectID = "lGs-K3-5cs"; */
+"lGs-K3-5cs.text" = "yyyyMMdd";
+
+/* Class = "UILabel"; text = "Suffix"; ObjectID = "lU3-GA-1eq"; */
+"lU3-GA-1eq.text" = "Suffix";
+
+/* Class = "UILabel"; text = "Postcard"; ObjectID = "lbG-jK-TjY"; */
+"lbG-jK-TjY.text" = "Postcard";
+
+/* Class = "UILabel"; text = "Legal"; ObjectID = "lcs-iF-Cb0"; */
+"lcs-iF-Cb0.text" = "Legal";
+
+/* Class = "UILabel"; text = "Delete blank"; ObjectID = "mAC-Sz-XrY"; */
+"mAC-Sz-XrY.text" = "Delete blank";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "n8r-hL-z99"; */
+"n8r-hL-z99.title" = "Back";
+
+/* Class = "UITabBarItem"; title = "List"; ObjectID = "nWt-G8-xRa"; */
+"nWt-G8-xRa.title" = "List";
+
+/* Class = "UILabel"; text = "Developer Website"; ObjectID = "qxW-BJ-x4v"; */
+"qxW-BJ-x4v.text" = "Developer Website";
+
+/* Class = "UILabel"; text = "B6"; ObjectID = "r3f-dP-DLa"; */
+"r3f-dP-DLa.text" = "B6";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "rJM-aI-gpM"; */
+"rJM-aI-gpM.text" = "Dropbox";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "rch-0p-UMZ"; */
+"rch-0p-UMZ.text" = "None";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "rsH-51-Ni3"; */
+"rsH-51-Ni3.text" = "Normal";
+
+/* Class = "UILabel"; text = "MMdd"; ObjectID = "s2J-w1-Md2"; */
+"s2J-w1-Md2.text" = "MMdd";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "sQ6-bv-a0D"; */
+"sQ6-bv-a0D.title" = "Setting";
+
+/* Class = "UITableViewSection"; headerTitle = "In-App Purchase"; ObjectID = "uTA-R8-L0b"; */
+"uTA-R8-L0b.headerTitle" = "In-App Purchase";
+
+/* Class = "UILabel"; text = "yyyy-MM-dd-HH-mm-ss"; ObjectID = "wz1-YZ-lsA"; */
+"wz1-YZ-lsA.text" = "yyyy-MM-dd-HH-mm-ss";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "xLh-oI-IUj"; */
+"xLh-oI-IUj.text" = "None";
+
+/* Class = "UILabel"; text = "Preview"; ObjectID = "xV3-xA-yIT"; */
+"xV3-xA-yIT.text" = "Preview";
+
+/* Class = "UILabel"; text = "fName"; ObjectID = "xfV-Ko-hSC"; */
+"xfV-Ko-hSC.text" = "fName";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "y5h-WW-LDW"; */
+"y5h-WW-LDW.title" = "Add";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "yTS-gS-8ZG"; */
+"yTS-gS-8ZG.text" = "Auto";

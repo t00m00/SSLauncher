@@ -1,0 +1,279 @@
+/* 
+  File.strings
+  SSLauncher
+
+  Created by toomoo on 2014/08/30.
+  Copyright (c) 2014年 toomoo. All rights reserved.
+*/
+
+/**************************************************************************************
+ *  共通
+ *************************************************************************************/
+"Common_Alert_Title_InputFileName"      = "ファイル名を入力してください";
+"Common_Alert_Title_InputNoteName"      = "ノート名を入力してください";
+"Common_Alert_Title_InputSubject"       = "ファイル名を入力してください";
+
+"Common_Alert_Button_ScanStart"         = "スキャン開始";
+"Common_Alert_Button_Cancel"            = "キャンセル";
+"Common_Alert_Button_OK"                = "OK";
+"Common_Alert_Button_Install"           = "App Storeを表示";
+"Common_Alert_Button_Open_Safari"       = "Safariで表示";
+
+"Common_Alert_Title_DevWebsite"         = "Webサイトを\nSafariで表示します";
+
+"Common_Navigation_BackBarButton_Title" = "戻る";
+
+"Common_Indicator_Msg_Proccesing"       = "処理中";
+"Common_Complete_Msg_Proccesing"        = "リンクを\nコピーしました";
+
+"Common_Cloud_NoConnect"                = "未接続";
+"Common_Cloud_Connect"                  = "接続済み";
+"Common_Cloud_Dropbox"                  = "Dropbox";
+"Common_Cloud_Evernote"                 = "Evernote";
+"Common_Cloud_iCloud"                   = "iCloud";
+"Common_Cloud_OneDrive"                 = "OneDrive";
+"Common_Cloud_GoogleDrive"              = "GoogleDrive";
+"Common_Cloud_And_SharableLink"         = "&公開リンク";
+
+"Common_Cloud_Uploading"                = "アップロード中...";
+"Common_Cloud_Upload_Success"           = "アップロードに成功しました";
+"Common_Cloud_Uploading_CountFormat"    = " (%d / %d)";
+
+
+"Delimiter_Type_UnderScore"             = "_";
+"Delimiter_Type_Hyphen"                 = "-";
+"Delimiter_Type_None"                   = "";
+
+"SequentialNumber_Type_Num"             = "%d";
+"SequentialNumber_Type_Num_Parentheses" = "(%d)";
+"SequentialNumber_Type_Num_Bracket"     = "[%d]";
+
+
+/**************************************************************************************
+ *  SSCAの処理関連
+ *************************************************************************************/
+"SSCA_Failed_NoInstalled_Title"         = "App Store から ScanSnap Connect Application をインストールしてください。";
+"SSCA_Failed_Scan"                      = "スキャンに失敗しています";
+"SSCA_AppStore_AppID"                   = "463713763";
+
+
+/**************************************************************************************
+ *  Launcher画面
+ *************************************************************************************/
+"Launcher_Cell_Button_Edit"                 = "編集";
+"Launcher_Cell_Button_Favorite"             = " ☆ ";
+"Launcher_Cell_Button_Favorite_Selected"    = " ★ ";
+
+"Launcher_Cloud_NotSignedin"        = "クラウドに接続していません。";
+
+/**************************************************************************************
+ *  Launcher作成画面ScanSnap関連
+ *************************************************************************************/
+"LCreateView_CloudSaveDir_Title"                 = "保存先";
+"LCreateView_CloudSaveDir_Evernote_Title"        = "ノートブック名";
+
+"LCreateView_Cloud_Section_FooterTitle"          = "保存先を\"/\"区切りで指定してください。\n例 : /フォルダA/フォルダB";
+"LCreateView_Cloud_Section_Evernote_FooterTitle" = "ノートブック名を指定してください。\nタグ名の指定もできます。\n例 : ノートブックA@タグA/タグB";
+
+
+"LCreateView_ScannerName_Title"                  = "接続スキャナ名";
+
+"LEditView_Navigation_Title"                     = "Launcherの編集";
+
+/**************************************************************************************
+ *  設定画面ScanSnap関連
+ *************************************************************************************/
+
+
+
+/**************************************************************************************
+ *  アプリ内購入画面
+ *************************************************************************************/
+"IAPView_Alert_Title_Error"             = "アプリ内購入";
+
+"IAPView_Alert_Msg_RequestFailed"       = "購入処理を開始できませんでした。";
+
+"IAPView_LaunchUnrestraintTitle"        = "loading...";
+"IAPView_LaunchUnrestraintPrice"        = "   ";
+"IAPView_LaunchUnrestraintPricePaid"    = "購入済み";
+
+"IAPView_RestoreTitle"                  = "購入した項目を復元する";
+
+
+/**************************************************************************************
+ *  プロモーション画面
+ *************************************************************************************/
+"PromoVC_Info_Msg_List"  = "新しいリストを作成するには、\n[設定] → [アプリ内課金] から\n機能のご購入を\nよろしくお願いします。";
+"PromoVC_Info_Msg_Count" = "本日のスキャン上限に達しました。\n\nスキャンを継続するには\n[設定] → [アプリ内課金] から機能をご購入いただくか、\n明日スキャンを行ってください。";
+
+
+/**************************************************************************************
+ *  初期説明画面
+ *************************************************************************************/
+"DescriptionVC_AppStoreButton_text" = "App Storeを表示";
+"DescriptionVC_Title_text"          = "使い方";
+"DescriptionVC_Step1_text"          = "1. ScanSnap Connect Applicationを\nインストールします";
+"DescriptionVC_Step2_text"          = "2. 設定からクラウドへサインインします";
+"DescriptionVC_Step3_text"          = "3. \"+\"からリストを作成します";
+
+/**************************************************************************************
+ *  プレビュー画面
+ *************************************************************************************/
+"Preview_Button_Label_Cancel"       = "キャンセル";
+"Preview_Button_Label_Upload"       = "アップロード";
+
+
+/**************************************************************************************
+ *  スキャン回数上限関連
+ *************************************************************************************/
+"LastScanDate_Default" = "20000101";
+
+
+/**************************************************************************************
+ *  ScanSnap関連
+ *************************************************************************************/
+
+"LData_Default_Title"           = "新しいLauncher";
+"LData_Default_CloudSavePath"   = "/";
+"LData_Default_ScannerName"     = "自動";
+"LData_Default_FileName"        = "新しいファイル";
+
+"SSParam_FileFormat_PDF"        = "PDF";
+"SSParam_FileFormat_JPEG"       = "JPEG";
+
+"SSParam_ScanSide_Single"       = "片面";
+"SSParam_ScanSide_Both"         = "両面";
+
+"SSParam_ColorMode_Auto"        = "自動";
+"SSParam_ColorMode_Color"       = "カラー";
+"SSParam_ColorMode_Mono"        = "白黒";
+"SSParam_ColorMode_Gray"        = "グレー";
+
+"SSParam_MonoCctn_m5"           = "-5";
+"SSParam_MonoCctn_m4"           = "-4";
+"SSParam_MonoCctn_m3"           = "-3";
+"SSParam_MonoCctn_m2"           = "-2";
+"SSParam_MonoCctn_m1"           = "-1";
+"SSParam_MonoCctn_0"            = "0";
+"SSParam_MonoCctn_1"            = "1";
+"SSParam_MonoCctn_2"            = "2";
+"SSParam_MonoCctn_3"            = "3";
+"SSParam_MonoCctn_4"            = "4";
+"SSParam_MonoCctn_5"            = "5";
+
+"SSParam_ScanMode_Normal"       = "ノーマル";
+"SSParam_ScanMode_Fine"         = "ファイン";
+"SSParam_ScanMode_SuperFine"    = "スーパーファイン";
+"SSParam_ScanMode_Auto"         = "自動";
+
+"SSParam_FileNameFormat_JP"     = "yyyy年MM月dd日HH時mm分ss秒";
+"SSParam_FileNameFormat_NoSep"  = "yyyyMMddHHmmss";
+"SSParam_FileNameFormat_Direct" = "直接指定";
+"SSParam_FileNameFormat_SepHyphen" = "yyyy-MM-dd-HH-mm-ss";
+
+"SSParam_FileNameFormat_ExeScanDirect" = "[スキャン実行時]";
+
+"SSParam_PaperSize_Auto"        = "自動";
+"SSParam_PaperSize_A4"          = "A4";
+"SSParam_PaperSize_A5"          = "A5";
+"SSParam_PaperSize_A6"          = "A6";
+"SSParam_PaperSize_B5"          = "B5";
+"SSParam_PaperSize_B6"          = "B6";
+"SSParam_PaperSize_PostCard"    = "はがき";
+"SSParam_PaperSize_BusinessCard"= "名刺";
+"SSParam_PaperSize_Letter"      = "レター";
+"SSParam_PaperSize_Legal"       = "リーガル";
+
+"SSParam_Compression_M2"        = "弱い";
+"SSParam_Compression_M1"        = "やや弱い";
+"SSParam_Compression_0"         = "標準";
+"SSParam_Compression_1"         = "やや強い";
+"SSParam_Compression_2"         = "強い";
+
+/**************************************************************************************
+ *  ScanSnap関連（独自拡張）
+ *************************************************************************************/
+
+"SSParam_Ex_FileName_Prefix_None"           = "なし";
+"SSParam_Ex_FileName_Prefix_yyyyMMdd"       = "yyyyMMdd";
+"SSParam_Ex_FileName_Prefix_yyyyMM"         = "yyyyMM";
+"SSParam_Ex_FileName_Prefix_yyyy"           = "yyyy";
+"SSParam_Ex_FileName_Prefix_MMdd"           = "MMdd";
+"SSParam_Ex_FileName_Prefix_MM"             = "MM";
+"SSParam_Ex_FileName_Prefix_DirectInput"    = "接頭語";
+
+"SSParam_Ex_FileName_Suffix_None"           = "なし";
+"SSParam_Ex_FileName_Suffix_yyyyMMdd"       = "yyyyMMdd";
+"SSParam_Ex_FileName_Suffix_yyyyMM"         = "yyyyMM";
+"SSParam_Ex_FileName_Suffix_yyyy"           = "yyyy";
+"SSParam_Ex_FileName_Suffix_MMdd"           = "MMdd";
+"SSParam_Ex_FileName_Suffix_MM"             = "MM";
+"SSParam_Ex_FileName_Suffix_DirectInput"    = "接尾語";
+
+/**************************************************************************************
+ *  エラー関連
+ *************************************************************************************/
+"Err_App_Title_Internal"  = "処理を実行できませんでした。アプリを再起動後に実行してください。";
+"Err_App_Body_Internal"   = "";
+
+"Err_App_Title_FileExist"  = "処理を実行できませんでした。アプリを再起動後に実行してください。";
+"Err_App_Body_FileExist"   = "";
+
+"Err_App_Title_DiskFull"  = "処理を実行できませんでした。";
+"Err_App_Body_DiskFull"   = "端末のストレージ容量が足りません。";
+
+"Err_App_Title_InvalidFileName"  = "処理を実行できませんでした。もう一度実行してください。";
+"Err_App_Body_InvalidFileName"   = "使用できない名前です。";
+
+"Err_IAP_Title_PurchaseFailed"      = "購入または、購入の復元処理に失敗しました。もう一度実行してください。";
+"Err_IAP_Body_PurchaseFailed"      = "ネットワークが安定している場所でお試しください。";
+
+"Err_Cloud_Upload_Title_NoConnect"  = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_NoConnect"   = "クラウドにサインインしていません。";
+
+"Err_Cloud_Upload_Title_NoConnectInternet" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_NoConnectInternet"  = "ネットワークに接続されていません。";
+
+"Err_Cloud_Upload_Title_TimeOut" = "クラウドへのアップロードに\n失敗しました。時間をおいてから実行してください。";
+"Err_Cloud_Upload_Body_TimeOut"  = "クラウドからの応答がありませんでした。";
+
+"Err_Cloud_Upload_Title_DataLength" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_DataLength"  = "ファイルサイズが大きすぎます。";
+
+"Err_Cloud_Upload_Title_BadToken" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_BadToken"  = "クラウドへサインインし直してください。";
+
+"Err_Cloud_Upload_Title_OverStorage" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_OverStorage"  = "クラウドのストレージ容量が足りません。";
+
+"Err_Cloud_Upload_Title_ServerStopped" = "クラウドへのアップロードに\n失敗しました。時間をおいてから実行してください。";
+"Err_Cloud_Upload_Body_ServerStopped"  = "クラウドサーバーが停止している可能性があります。";
+
+"Err_Cloud_Upload_Title_LimitReached" = "クラウドへのアップロードに\n失敗しました。時間をおいてから実行してください。";
+"Err_Cloud_Upload_Body_LimitReached"  = "クラウドサーバーが停止している可能性があります。";
+
+"Err_Cloud_Upload_Title_LimitReached" = "クラウドへのアップロードに\n失敗しました。時間をおいてから実行してください。";
+"Err_Cloud_Upload_Body_LimitReached"  = "クラウドサーバーが停止している可能性があります。";
+
+"Err_Cloud_Upload_Title_AccountFailed" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_AccountFailed"  = "ユーザー名または、パスワードに誤りがあります。";
+
+"Err_Cloud_Upload_Title_AccountFailed" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_AccountFailed"  = "ユーザー名または、パスワードに誤りがあります。";
+
+"Err_Cloud_Upload_Title_AuthExpired" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_AuthExpired"  = "認証情報の有効期限が切れました。再度サインインしてください。";
+
+"Err_Cloud_Upload_Title_DataConflict" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_DataConflict"  = "ノートなどに競合が発生しました。";
+
+"Err_Cloud_Upload_Title_UnsupportedOperation" = "クラウドへのアップロードに\n失敗しました。";
+"Err_Cloud_Upload_Body_UnsupportedOperation"  = "この機能は現在サポートされていません。";
+
+
+
+
+
+
+
+

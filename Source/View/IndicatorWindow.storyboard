@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="fD7-Ef-5kw">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <scenes>
+        <!--Indicator View Controller-->
+        <scene sceneID="oem-Ck-bzJ">
+            <objects>
+                <viewController id="fD7-Ef-5kw" customClass="IndicatorViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="dna-Ec-eof"/>
+                        <viewControllerLayoutGuide type="bottom" id="e6h-e2-z3x"/>
+                    </layoutGuides>
+                    <view key="view" alpha="0.59999999999999964" contentMode="scaleToFill" id="8mo-pJ-uhz">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="USm-EJ-3Sa">
+                                <rect key="frame" x="66" y="240" width="188" height="88"/>
+                                <subviews>
+                                    <activityIndicatorView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" animating="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="nd3-Ou-EXG">
+                                        <rect key="frame" x="84" y="23" width="20" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="rwo-Ve-9Cj"/>
+                                        </constraints>
+                                    </activityIndicatorView>
+                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="processing" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eUK-ph-JFO">
+                                        <rect key="frame" x="8" y="51" width="172" height="37"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="37" id="mCB-n2-GNn"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.85490196078431369" green="0.85490196078431369" blue="0.85490196078431369" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="nd3-Ou-EXG" firstAttribute="top" secondItem="USm-EJ-3Sa" secondAttribute="top" constant="23" id="DTS-QV-csU"/>
+                                    <constraint firstAttribute="height" constant="88" id="GPp-Yq-JUh"/>
+                                    <constraint firstAttribute="width" constant="188" id="RBR-2C-Nye"/>
+                                    <constraint firstItem="eUK-ph-JFO" firstAttribute="leading" secondItem="USm-EJ-3Sa" secondAttribute="leading" constant="8" id="noY-lR-xSF"/>
+                                    <constraint firstItem="eUK-ph-JFO" firstAttribute="top" secondItem="nd3-Ou-EXG" secondAttribute="bottom" constant="8" id="pUe-nF-lSG"/>
+                                    <constraint firstItem="nd3-Ou-EXG" firstAttribute="leading" secondItem="USm-EJ-3Sa" secondAttribute="leading" constant="84" id="qN0-Cm-uxr"/>
+                                    <constraint firstAttribute="trailing" secondItem="nd3-Ou-EXG" secondAttribute="trailing" constant="84" id="zd1-ep-bBA"/>
+                                    <constraint firstAttribute="trailing" secondItem="eUK-ph-JFO" secondAttribute="trailing" constant="8" id="zdD-KM-NP2"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="centerX" secondItem="USm-EJ-3Sa" secondAttribute="centerX" id="KJh-7c-PVf"/>
+                            <constraint firstAttribute="centerY" secondItem="USm-EJ-3Sa" secondAttribute="centerY" id="eWt-cZ-Wk5"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="containerView" destination="USm-EJ-3Sa" id="wKk-jt-n6y"/>
+                        <outlet property="indicator" destination="nd3-Ou-EXG" id="g0X-Pu-Hfr"/>
+                        <outlet property="msgLabel" destination="eUK-ph-JFO" id="Rdd-ob-xJw"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WFV-Bs-DeM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="509" y="44"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

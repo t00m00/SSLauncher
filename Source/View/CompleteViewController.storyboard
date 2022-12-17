@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="1mN-la-K4F">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <scenes>
+        <!--Complete View Controller-->
+        <scene sceneID="Dp8-2r-yk4">
+            <objects>
+                <viewController id="1mN-la-K4F" customClass="CompleteViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="EFp-AA-4io"/>
+                        <viewControllerLayoutGuide type="bottom" id="UaA-W3-jQg"/>
+                    </layoutGuides>
+                    <view key="view" alpha="0.59999999999999964" contentMode="scaleToFill" id="2Vv-xr-W0B">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AAK-TF-43M" userLabel="ContainerView">
+                                <rect key="frame" x="200" y="200" width="200" height="200"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="complete_check.png" translatesAutoresizingMaskIntoConstraints="NO" id="1j0-4D-u2Z">
+                                        <rect key="frame" x="45" y="8" width="110" height="110"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="110" id="if3-ID-m9x"/>
+                                            <constraint firstAttribute="width" constant="110" id="pcB-us-XNv"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WOa-8B-QJp">
+                                        <rect key="frame" x="8" y="126" width="184" height="66"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="66" id="3KI-8F-Ss1"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.85490196078431369" green="0.85490196078431369" blue="0.85490196078431369" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="1j0-4D-u2Z" firstAttribute="top" secondItem="AAK-TF-43M" secondAttribute="top" constant="8" id="0M5-fD-X05"/>
+                                    <constraint firstItem="WOa-8B-QJp" firstAttribute="top" secondItem="1j0-4D-u2Z" secondAttribute="bottom" constant="8" id="4fv-IH-NP3"/>
+                                    <constraint firstAttribute="bottom" secondItem="WOa-8B-QJp" secondAttribute="bottom" constant="8" id="KuK-wP-Pev"/>
+                                    <constraint firstItem="WOa-8B-QJp" firstAttribute="leading" secondItem="AAK-TF-43M" secondAttribute="leading" constant="8" id="O88-g1-yxh"/>
+                                    <constraint firstAttribute="trailing" secondItem="WOa-8B-QJp" secondAttribute="trailing" constant="8" id="cAX-xs-0bJ"/>
+                                    <constraint firstItem="1j0-4D-u2Z" firstAttribute="leading" secondItem="AAK-TF-43M" secondAttribute="leading" constant="45" id="jMU-0V-k43"/>
+                                    <constraint firstAttribute="trailing" secondItem="1j0-4D-u2Z" secondAttribute="trailing" constant="45" id="teg-f4-pJY"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="centerY" secondItem="AAK-TF-43M" secondAttribute="centerY" id="hXY-nK-MeU"/>
+                            <constraint firstAttribute="centerX" secondItem="AAK-TF-43M" secondAttribute="centerX" id="oPW-SI-hfk"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="containerView" destination="AAK-TF-43M" id="kk4-tB-PdS"/>
+                        <outlet property="msgLabel" destination="WOa-8B-QJp" id="7sl-mj-4br"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="CgA-UI-hc6" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="694" y="420"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="complete_check.png" width="128" height="128"/>
+    </resources>
+</document>
