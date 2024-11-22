@@ -4,4 +4,4 @@
 * Created in 2014
 * [more information](http://good-beans.blogspot.com/2014/10/iosscansnap-scansnapsslauncher.html)
 ---
-Not working now
+It used to be published on the App Store, but it has been removed now.
